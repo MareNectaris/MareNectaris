@@ -5,7 +5,6 @@ feed = feedparser.parse(tistory_blog_uri+"/rss")
 
 markdown_text = """# Hello, there!
 Still an amateur developer wandering around the digital world.<br>
-Currently in 12th grade @ Sunrin Internet HS, 5th VP of [EDCAN](https://github.com/EDCAN), and a member of [logcat-me](https://github.com/logcat-me).<br>
 ## Recent blog posts
 """ # list of blog posts will be appended here
 
