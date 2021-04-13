@@ -1,5 +1,5 @@
 # Hello, there!
-Still an amateur developer wandering around the digital world.<br>
+<em>still</em> an amateur developer wandering around the digital world<br>
 ## Recent blog posts
 [Python+GitHub Actions로 GitHub 프로필에 티스토리 최근 글 목록 연동하기](https://blog.stdio.dev/59) - Jul 19, 2020<br>
 [타이젠 스튜디오(sdb)와 워치 연결하기](https://blog.stdio.dev/58) - Jul 17, 2020<br>
