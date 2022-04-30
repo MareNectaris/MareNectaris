@@ -4,6 +4,7 @@ tistory_blog_uri="https://blog.stdio.dev"
 feed = feedparser.parse(tistory_blog_uri+"/rss")
 
 markdown_text = """# Hello, there!
+![iidx at solved.ac](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=iidx)<br>
 <em>still</em> an amateur developer wandering around the digital world<br>
 ## Recent blog posts
 """ # list of blog posts will be appended here
